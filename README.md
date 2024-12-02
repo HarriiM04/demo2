@@ -1,3 +1,1 @@
-# this is my local repo uplodation repo 
-
-- uploaded 
+# this is my readme.md command 
